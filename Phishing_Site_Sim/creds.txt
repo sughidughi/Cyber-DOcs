@@ -1,0 +1,6 @@
+Username: admin | Password: password
+Username: rook | Password: password
+Full Name: Sammy Green | Email: 1234@gmail.com | Password: password | SSN (Last 4): 1234
+Full Name: Shelby Ewest | Email: shelbyewest@gmail.com | Password: 123456 | SSN (Last 4): 1234
+Full Name: Shanissa Fletcher | Email: shanissafletcher@gmail.com | Password: password | SSN (Last 4): 1234
+Full Name: Itsme | Email: thisismyemail@gmail.com | Password: mypassword | SSN (Last 4): 1122
