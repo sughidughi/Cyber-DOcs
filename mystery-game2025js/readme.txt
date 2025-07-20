@@ -1,0 +1,1 @@
+Very early code of an idea for a detective turn based rpg in Java Script. I realized early that I would reap more benefit using python instead, since most of my scripting for Cybersecurity classes will be done in python.
